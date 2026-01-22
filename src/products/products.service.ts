@@ -1,7 +1,9 @@
 import { Injectable, OnModuleInit, Logger } from '@nestjs/common';
 import * as fs from 'fs';
 import * as path from 'path';
-import csvParser from 'csv-parser';
+
+// eslint-disable-next-line @typescript-eslint/no-require-imports
+const csvParser = require('csv-parser');
 
 /**
  * dto in base of the products of the csv data
