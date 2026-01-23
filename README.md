@@ -50,8 +50,8 @@ nest -v
 
    ```bash
    cp .env.example .env
-   # edit .env with the API KEYS and port
    ```
+   edit .env with the API KEYS and port
 
 4. Run the application:
    ```bash
