@@ -63,10 +63,13 @@ nest -v
    http://localhost:3000/docs
    ```
 
-## Optional
-If you want to validate the types and build errors
+# You can test the full project in the next url
+
    ```bash
-   npm run build
+   https://wizy.eddys.dev
    ```
+
+<img width="2812" height="1616" alt="image" src="https://github.com/user-attachments/assets/e7cb157c-85cd-4b58-aaa1-953330f939fe" />
+
 
 
